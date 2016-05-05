@@ -1,11 +1,8 @@
-### API, docs and evaluation code to the methodology proposed on 'A Methodology to Handle Social Media Posts in Brazilian Portuguese for Text Mining Applications'
+### API and datasets to evaluate the proposed methodology at 'A Methodology to Handle Social Media Posts in Brazilian Portuguese for Text Mining Applications'
 
 #### API
 
 http://brs-nlp-api.appspot.com/
-
-#### How To
-
 
 #### Available Datasets
 
